@@ -5,5 +5,7 @@ Put simXX.aag , optXX.aag, strash.aag, opt66.aag, opt67.aag, opt68.aag and your 
 
 ## how to use ##
 ./fraig -f CheckOp > myOp
+
 ./fraig -f CheckOp > ReOp
+
 diff myOp ./ref/ReOp
