@@ -1,0 +1,203 @@
+cirr sim01.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim02.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim03.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim04.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim05.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim06.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim07.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim08.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim09.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim10.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim11.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim12.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim13.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim14.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r sim15.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+
+cirr -r opt01.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r opt02.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r opt03.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r opt04.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r opt05.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r opt06.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r opt07.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r opt66.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r opt67.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+cirr -r opt68.aag
+cirp -n
+cirp -fl
+cirw
+cirsweep
+cirp -n
+cirp -fl
+cirw
+q -f
+

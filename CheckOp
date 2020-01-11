@@ -1,0 +1,91 @@
+cirr op1.aag
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+cirw
+cirr -r op2.aag
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+cirw
+cirr -r op3.aag
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+cirw
+cirr -r op4.aag
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+cirw
+cirr -r op5.aag
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+cirw
+cirr -r op6.aag
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+cirw
+cirr -r op7.aag
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+cirw
+cirr -r op8.aag
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+cirw
+cirr -r op9.aag
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+ciropT
+cirp
+cirp -n
+cirw
+q -f

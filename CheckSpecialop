@@ -1,0 +1,31 @@
+cirr opt66.aag
+cirp
+cirp -fl
+cirp -n
+cirw
+ciropt
+cirp
+cirp -fl
+cirp -n
+cirw
+cirr -r opt67.aag
+cirp
+cirp -fl
+cirp -n
+cirw
+ciropt
+cirp
+cirp -fl
+cirp -n
+cirw
+cirr -r opt68.aag
+cirp
+cirp -fl
+cirp -n
+cirw
+ciropt
+cirp
+cirp -fl
+cirp -n
+cirw
+q -f
